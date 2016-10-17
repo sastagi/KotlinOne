@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KotlinOne.iml" filepath="$PROJECT_DIR$/KotlinOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinocchio/pinocchio.iml" filepath="$PROJECT_DIR$/pinocchio/pinocchio.iml" />
+    </modules>
+  </component>
+</project>
